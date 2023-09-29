@@ -25,11 +25,11 @@ _A contribution table with all group members’ names that explicitly provides t
 
 | Name               | Contribution |
 | ------------------ | ------------ |
-| Abdullah Ahmed     | Contribution |
-| Alec Albrecht      | Contribution |
+| Abdullah Ahmed     | Tech Lead |
+| Alec Albrecht      | Research Lead |
 | Carlos Hernandez   | Project Manager |
-| Ankita Somu        | Contribution |
-| Sanjana Srinivasan | Contribution |
+| Ankita Somu        | Data Scientist |
+| Sanjana Srinivasan | Web Developer / Researcher |
 
 # References
 _At least three references (preferably peer reviewed). You need to properly cite the references on your proposal. This part does NOT count towards word limit._
