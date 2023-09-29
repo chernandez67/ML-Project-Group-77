@@ -26,7 +26,7 @@ _A contribution table with all group members’ names that explicitly provides t
 | Name               | Contribution |
 | ------------------ | ------------ |
 | Abdullah Ahmed     | Contribution |
-| Alec Albrecht      | Contribution |
+| Alec Albrecht      | Not a CS Major |
 | Carlos Hernandez   | Project Manager |
 | Ankita Somu        | Contribution |
 | Sanjana Srinivasan | Contribution |
