@@ -23,5 +23,13 @@ _Add proposed timeline from start to finish and list each project members’ res
 # Contribution table
 _A contribution table with all group members’ names that explicitly provides the contribution of each member in preparing the project task. This part does NOT count towards word limit._
 
+| Name               | Contribution |
+| ------------------ | ------------ |
+| Abdullah Ahmed     | Contribution |
+| Alec Albrecht      | Contribution |
+| Carlos Hernandez   | Contribution |
+| Ankita Somu        | Contribution |
+| Sanjana Srinivasan | Contribution |
+
 # References
 _At least three references (preferably peer reviewed). You need to properly cite the references on your proposal. This part does NOT count towards word limit._
