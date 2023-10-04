@@ -12,7 +12,7 @@ _A quick introduction of your topic and mostly literature review of what has bee
 _Why there is a problem here or what is the motivation of the project?_
 
 # Methods
-_What algorithms or methods are you going to use to solve the problems. (Note: Methods may change when you start implementing them which is fine). Students are encouraged to use existing packages and libraries (i.e. scikit-learn) instead of coding the algorithms from scratch._
+_Based on our choice of dataset, we already have potential predefined clusters, such as Artist, Artistic Movement, or time period. As a result, we can apply different unsupervised learning techniques to the full data set with a known number of clusters to see if different clustering algorithms assign each image correctly. Scikit Learn provides many algorithms already that we can use to perform this analysis. A very common technique in supervised learning for images is the use of Convolutional Neural Networks._
 
 # Potential results and discussion
 _(The results may change while you are working on the project and it is fine; that’s why it is called research). A good way to talk about potential results is to discuss about what type of quantitative metrics your team plan to use for the project (i.e. ML Metrics)._
@@ -26,7 +26,7 @@ _A contribution table with all group members’ names that explicitly provides t
 | Name               | Contribution |
 | ------------------ | ------------ |
 | Abdullah Ahmed     | Tech Lead |
-| Alec Albrecht      | Not a CS Major |
+| Alec Albrecht      | Methods and Algorithms |
 | Carlos Hernandez   | Project Manager |
 | Ankita Somu        | Data Scientist |
 | Sanjana Srinivasan | Web Developer / Researcher |
