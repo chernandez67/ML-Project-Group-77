@@ -25,8 +25,6 @@ Though complex, it would be intriguing to investigate the possibility of extendi
 [Link to Gantt chart](https://gtvault-my.sharepoint.com/:x:/g/personal/chernandez67_gatech_edu/EVuvWZhh9HNCmo4TFq1jIo4B8mNjICTnVevouUCk1LChsQ?e=CYGYqX)
 
 # Contribution table
-_A contribution table with all group members’ names that explicitly provides the contribution of each member in preparing the project task. This part does NOT count towards word limit._
-
 | Name               | Contribution |
 | ------------------ | ------------ |
 | Abdullah Ahmed     | Tech Lead |
