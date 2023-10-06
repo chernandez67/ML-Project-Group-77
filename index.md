@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![Artwork]({{ site.url }}/assets/images/paintings.jpg)
+<!-- ![Artwork]({{ site.url }}/assets/images/paintings.jpg) -->
 
 # Introduction/Background
 
