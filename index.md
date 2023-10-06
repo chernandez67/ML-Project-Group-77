@@ -37,11 +37,11 @@ _A contribution table with all group members’ names that explicitly provides t
 
 # References
 [Categorizing Paintings in Art Styles Based on Qualitative Color Descriptors, Quantitative Global Features and Machine Learning (QArt-Learn)](https://www.sciencedirect.com/science/article/pii/S0957417417308126) \
-Falomir, Zoe, et al. “Categorizing Paintings in Art Styles Based on Qualitative Color Descriptors, Quantitative Global Features and Machine Learning (QArt-Learn).” Expert Systems with Applications, vol. 97, 2018, pp. 83–94, https://doi.org/10.1016/j.eswa.2017.11.056.
+Falomir, Zoe, et al. “Categorizing Paintings in Art Styles Based on Qualitative Color Descriptors, Quantitative Global Features and Machine Learning (QArt-Learn).” Expert Systems with Applications, vol. 97, 2018, pp. 83–94, https://doi.org/10.1016/j.eswa.2017.11.056. \
 
 [Using Machine Learning for Identification of Art Paintings](https://cs229.stanford.edu/proj2010/BlessingWen-UsingMachineLearningForIdentificationOfArtPaintings.pdf) \
-Blessing, Alexander. “Using Machine Learning for Identification of Art Paintings.” (2010).
+Blessing, Alexander. “Using Machine Learning for Identification of Art Paintings.” (2010). \
 
 [Discerning Art Works through Active Machine Learning](https://ieeexplore.ieee.org/document/9824180) \
-Z. Yu, "Discerning Art Works through Active Machine Learning," 2022 3rd International Conference on Computer Vision, Image and Deep Learning & International Conference on Computer Engineering and Applications (CVIDL & ICCEA), Changchun, China, 2022, pp. 1002-1006, doi: 10.1109/CVIDLICCEA56201.2022.9824180.
+Z. Yu, "Discerning Art Works through Active Machine Learning," 2022 3rd International Conference on Computer Vision, Image and Deep Learning & International Conference on Computer Engineering and Applications (CVIDL & ICCEA), Changchun, China, 2022, pp. 1002-1006, doi: 10.1109/CVIDLICCEA56201.2022.9824180. \
 
