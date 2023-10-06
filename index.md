@@ -15,7 +15,11 @@ Given an image our project aims to classify the style of an art piece. Our goal 
 _Based on our choice of dataset, we already have potential predefined clusters, such as Artist, Artistic Movement, or time period. As a result, we can apply different unsupervised learning techniques to the full data set with a known number of clusters to see if different clustering algorithms assign each image correctly. Scikit Learn provides many algorithms already that we can use to perform this analysis. A very common technique in supervised learning for images is the use of Convolutional Neural Networks._
 
 # Potential results and discussion
-_(The results may change while you are working on the project and it is fine; that’s why it is called research). A good way to talk about potential results is to discuss about what type of quantitative metrics your team plan to use for the project (i.e. ML Metrics)._
+The goal for this project is to create a model that can accurately determine the style of a piece of art in any given collection.  As museums and galleries transition more into digitized collections, the identification of art style can also assist in organizing and curating pieces, as well as categorizing newly collected artworks based on style, which is something even humans have difficulty with. This model could be critical in Visual Arts industries as it can aid not only in labeling art pieces, but also in identifying forgeries.
+
+The consistency measure our model is expected to hit is anywhere between 85-97%, meaning that our predictions of the average or squares will only deviate from the true values 3-15% of the time. Similarly, we also hope our precision score is as close to 1 as possible, where we will consider success to be anything greater than or equal to 0.80.
+
+Though complex, it would be intriguing to investigate the possibility of extending our model to identifying famous artists of paintings based on art styles as well. This could then be utilized to see what nuances may distinguish authentic paintings from supposed replicas.
 
 # Proposed timeline
 [Link to Gantt chart](https://gtvault-my.sharepoint.com/:x:/g/personal/chernandez67_gatech_edu/EVuvWZhh9HNCmo4TFq1jIo4B8mNjICTnVevouUCk1LChsQ?e=CYGYqX)
