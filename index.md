@@ -34,6 +34,3 @@ _A contribution table with all group members’ names that explicitly provides t
 # References
 [Categorizing Paintings in Art Styles Based on Qualitative Color Descriptors, Quantitative Global Features and Machine Learning (QArt-Learn)](https://www.sciencedirect.com/science/article/pii/S0957417417308126) \
 Falomir, Zoe, et al. “Categorizing Paintings in Art Styles Based on Qualitative Color Descriptors, Quantitative Global Features and Machine Learning (QArt-Learn).” Expert Systems with Applications, vol. 97, 2018, pp. 83–94, https://doi.org/10.1016/j.eswa.2017.11.056.
-
-[Link to reference page](./reference.html).
-
