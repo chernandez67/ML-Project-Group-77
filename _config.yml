@@ -1,5 +1,6 @@
-title: ML Project Name
-description: ML Project Description.
+title: Artwork Categorization
+description: Abdullah Ahmed, Alec Albrecht, Carlos Hernandez, Ankita Somu, Sanjana Srinivasan 
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-modernist
+BASE_PATH : /ML-Project-Group-77
