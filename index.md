@@ -41,3 +41,7 @@ Falomir, Zoe, et al. “Categorizing Paintings in Art Styles Based on Qualitativ
 
 [Using Machine Learning for Identification of Art Paintings](https://cs229.stanford.edu/proj2010/BlessingWen-UsingMachineLearningForIdentificationOfArtPaintings.pdf) \
 Blessing, Alexander. “Using Machine Learning for Identification of Art Paintings.” (2010).
+
+[Discerning Art Works through Active Machine Learning](https://ieeexplore.ieee.org/document/9824180) \
+Z. Yu, "Discerning Art Works through Active Machine Learning," 2022 3rd International Conference on Computer Vision, Image and Deep Learning & International Conference on Computer Engineering and Applications (CVIDL & ICCEA), Changchun, China, 2022, pp. 1002-1006, doi: 10.1109/CVIDLICCEA56201.2022.9824180.
+
