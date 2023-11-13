@@ -54,6 +54,9 @@ Explain direct results and evaluate metrics
 | Sanjana Srinivasan | Project Analysis & Discussion |
 
 # References
+[Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556)
+Simonyan, K., & Zisserman, A. "Very Deep Convolutional Networks for Large-Scale Image Recognition." (2015).
+
 [Categorizing Paintings in Art Styles Based on Qualitative Color Descriptors, Quantitative Global Features and Machine Learning (QArt-Learn)](https://www.sciencedirect.com/science/article/pii/S0957417417308126) \
 Falomir, Zoe, et al. “Categorizing Paintings in Art Styles Based on Qualitative Color Descriptors, Quantitative Global Features and Machine Learning (QArt-Learn).” Expert Systems with Applications, vol. 97, 2018, pp. 83–94, https://doi.org/10.1016/j.eswa.2017.11.056. 
 
