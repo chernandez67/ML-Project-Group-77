@@ -55,6 +55,10 @@ In a many of the DL frameworks like TensorFlow and PyTorch (used in our case), w
 
 A confusion matrix is one of the most efficient ways to properly visualize how the model is performing for each artist batch specifically. Based on the batch that we want to sample, we can create True Positives, True Negatives, False Positives, and False Negatives categories and determine if the instances of a class are being correct or not, based on if they are in a class. Another reason we chose this is because we can measure the specificity rate, which is the true negative rate. We can thus measure the proportion of actual negative instances correctly predicted, and see if the model is biased toward predicting the majority vs minority classes. Finally, by analyzing TP, TN, FP, and FN, we know a confusion matrix is relevant to our model and the neural network system because it allows us to iteratively change the model to quickly identify misclassifications of identifying artists from paintings, which is not easily done with other metrics such as only looking at True Positives or area under the curve (detrimental for datasets that are imbalanced). 
 
+### Model Implementation
+
+### Metrics
+Explain why certain metrics were used and why they are relevant to our model
 
 # Results and discussion
 
@@ -218,6 +222,9 @@ All in all, our metrics are certainly optimal and highly accurate, which is what
 | Sanjana Srinivasan | Project Analysis & Discussion |
 
 # References
+[Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556) \
+Simonyan, K., & Zisserman, A. "Very Deep Convolutional Networks for Large-Scale Image Recognition." (2015).
+
 [Categorizing Paintings in Art Styles Based on Qualitative Color Descriptors, Quantitative Global Features and Machine Learning (QArt-Learn)](https://www.sciencedirect.com/science/article/pii/S0957417417308126) \
 Falomir, Zoe, et al. “Categorizing Paintings in Art Styles Based on Qualitative Color Descriptors, Quantitative Global Features and Machine Learning (QArt-Learn).” Expert Systems with Applications, vol. 97, 2018, pp. 83–94, https://doi.org/10.1016/j.eswa.2017.11.056. 
 
