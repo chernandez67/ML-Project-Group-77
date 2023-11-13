@@ -28,7 +28,11 @@ Explain the preprocessing steps including feature reduction
 ![Normalized Resized Images]({{ site.url }}/{{ site.baseurl }}/assets/images/normalized-images.png)
 ![Normalized Resized Images]({{ site.url }}/{{ site.baseurl }}/assets/images/normalized-hists.png)
 
-### Modeling
+### Model Implementation
+
+
+
+### Metrics
 Explain why certain metrics were used and why they are relevant to our model
 
 # Results and discussion
