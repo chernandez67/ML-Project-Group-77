@@ -23,11 +23,18 @@ Explain the content of the dataset and methods
 ### Preprocessing
 Explain the preprocessing steps including feature reduction
 
+![Original Resized Images]({{ site.url }}/{{ site.baseurl }}/assets/images/original-images.png)
+![Original Resized Images]({{ site.url }}/{{ site.baseurl }}/assets/images/original-hists.png)
+![Normalized Resized Images]({{ site.url }}/{{ site.baseurl }}/assets/images/normalized-images.png)
+![Normalized Resized Images]({{ site.url }}/{{ site.baseurl }}/assets/images/normalized-hists.png)
+
 ### Modeling
 Explain why certain metrics were used and why they are relevant to our model
 
 # Results and discussion
 Explain direct results and evaluate metrics
+
+[![]({{ site.url }}/{{ site.baseurl }}/assets/images/multi-confusion-matrix.png)]({{ site.url }}/{{ site.baseurl }}/assets/images/multi-confusion-matrix.png)
 
 # Updated timeline
 [Link to Gantt chart](https://gtvault-my.sharepoint.com/:x:/g/personal/chernandez67_gatech_edu/EVuvWZhh9HNCmo4TFq1jIo4B8mNjICTnVevouUCk1LChsQ?e=CYGYqX)
