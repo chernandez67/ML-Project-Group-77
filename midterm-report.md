@@ -139,7 +139,7 @@ _Loss trend across all batches_
 
 The confusion matrix above depicts our predicted labels vs. the actual label values. The diagonal of the matrix represents the times that our model predicted the labels correctly, so ideally, the values on this diagonal should be high, and the values on all other positions in the matrix should be low, as these represent incorrect labeling from our model. Overall, the model appears to have a high accuracy, however there are some classes where the number of correct predictions is not as distinct from incorrect predictions for that class. However, there are rarely any classes for which incorrect predictions outnumber correct predictions. While the accuracy looks quite good, this is something that we can work to improve as we adjust our models, increasing our accuracy.
 
-![Original Resized Images]({{ site.url }}/{{ site.baseurl }}/assets/images/last-batch-matrix.png)
+![Original Resized Images]({{ site.url }}/{{ site.baseurl }}/assets/images/last-batch-matrix.PNG)
 _Confusion matrix preview of last batch_
 
 <details markdown="1">
