@@ -215,11 +215,11 @@ All in all, our metrics are certainly optimal and highly accurate, which is what
 
 | Name               | Contribution |
 | ------------------ | ------------ |
-| Abdullah Ahmed     | Tech Lead |
-| Alec Albrecht      | Methods and Algorithms |
-| Carlos Hernandez   | Project Manager |
-| Ankita Somu        | Potential Results |
-| Sanjana Srinivasan | Project Analysis & Discussion |
+| Abdullah Ahmed     | Loss vs. Epoch |
+| Alec Albrecht      | CNN training |
+| Carlos Hernandez   | Data visualization |
+| Ankita Somu        | Metric analysis |
+| Sanjana Srinivasan | Confusion matrix |
 
 # References
 [Very Deep Convolutional Networks for Large-Scale Image Recognition](https://arxiv.org/abs/1409.1556) \
