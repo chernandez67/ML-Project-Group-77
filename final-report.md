@@ -429,3 +429,8 @@ Z. Yu, "Discerning Art Works through Active Machine Learning," 2022 3rd Internat
 
 [Best Artworks of All Time](https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time) \
 Icaro (2019, February). Best Artworks of All Time, Version 1. Retrieved October 6, 2023 from https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time.
+
+[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://www.semanticscholar.org/paper/BERT%3A-Pre-training-of-Deep-Bidirectional-for-Devlin-Chang/df2b0e26d0599ce3e70df8a9da02e51594e0e992)
+
+[Foundation Models, Transformers, BERT and GPT](https://heidloff.net/article/foundation-models-transformers-bert-and-gpt/)
+
