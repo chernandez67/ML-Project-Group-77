@@ -243,9 +243,6 @@ Overall, we want to minimize the loss as much as possible, as when the differenc
 </details>
 <br>
 
-======> [Analysis of Model Accuracies] <======
-
-
 ### Confusion Matrix
 
 #### VGG-16
